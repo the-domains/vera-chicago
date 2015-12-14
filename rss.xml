@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Spanish Cuisine Worldly Wine]]></title>
-        <description><![CDATA[Spanish Cuisine Worldly Wine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Vera Chicago]]></title>
+        <description><![CDATA[Vera Chicago]]></description>
+        <link>https://thegrid.ai/vera-chicago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 22:01:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 22:20:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vera-chicago/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 21 best wine bars in the country]]></title>
+            <description><![CDATA[<article><h1>The 21 best wine bars in the country</h1><p>Fifty years ago if you'd asked for a glass of Malbec, you'd probably be greeted with a long, awkward silence. Today, there are over 8,000 wineries in the US, and even more bars that are pouring out such a vast, global selection of wines that America recently surpassed France as the world's biggest winos.</p><img src="http://assets3.thrillist.com/v1/image/1312071/size/tmg-facebook_share"></article>]]></description>
+            <link>https://www.thrillist.com/drink/nation/the-21-best-wine-bars-in-the-country</link>
+            <guid isPermaLink="false">e093ce44-02f4-4770-a205-002074ff6555</guid>
+            <pubDate>Mon, 14 Dec 2015 22:20:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vera]]></title>
-            <description><![CDATA[<article><h1>Vera</h1><p>Spanish wine bar from Mark Mendez, longtime executive chef at Carnivale, and his sommelier wife, Elizabeth. Even before leaving Jerry Kleiner's Carnivale, Mark Mendez made much of his desire to cook simply, from scratch, with premium, local-if-possible products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f1e726493dff1e7ae95d8aacdd706779788047.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Vera</h1><p>Spanish wine bar from Mark Mendez, longtime executive chef at Carnivale, and his sommelier wife, Elizabeth. Even before leaving Jerry Kleiner's Carnivale, Mark Mendez made much of his desire to cook simply, from scratch, with premium, local-if-possible products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98faf9ef758d8c72cb7146d2855f3664fad0041.jpg"></article>]]></description>
             <link>http://www.chicagoreader.com/chicago/vera/Location?oid=4845889</link>
             <guid isPermaLink="false">47351b5f-5c6a-42e3-b36f-b8fccf2d6ae8</guid>
             <pubDate>Mon, 14 Dec 2015 22:01:28 GMT</pubDate>
