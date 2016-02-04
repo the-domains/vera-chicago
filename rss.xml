@@ -4,7 +4,7 @@
         <description><![CDATA[Vera Chicago]]></description>
         <link>https://thegrid.ai/vera-chicago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 19:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 20:18:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vera-chicago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/vera-chicago/3a7eb357-da47-478e-9e15-c6bb6e616210/index.html</link>
             <guid isPermaLink="false">3a7eb357-da47-478e-9e15-c6bb6e616210</guid>
             <pubDate>Tue, 15 Dec 2015 01:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f381662e-7053-4177-9850-df5d5a5dfeb2.png">]]></description>
+            <link>https://thegrid.ai/vera-chicago/79774d3c-c647-41ca-ad77-ff2733bfd2e8/index.html</link>
+            <guid isPermaLink="false">79774d3c-c647-41ca-ad77-ff2733bfd2e8</guid>
+            <pubDate>Thu, 04 Feb 2016 20:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quimet y Quimet]]></title>
@@ -79,13 +86,6 @@ In October of 2011 Liz and Mark's dream came true and opened Vera, named
             <link>https://thegrid.ai/vera-chicago/814d54d7-cfd2-4c2e-a22b-04dc48f1d4b9/index.html</link>
             <guid isPermaLink="false">814d54d7-cfd2-4c2e-a22b-04dc48f1d4b9</guid>
             <pubDate>Tue, 15 Dec 2015 00:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 21 best wine bars in the country]]></title>
-            <description><![CDATA[<article><h1>The 21 best wine bars in the country</h1><p>Fifty years ago if you'd asked for a glass of Malbec, you'd probably be greeted with a long, awkward silence. Today, there are over 8,000 wineries in the US, and even more bars that are pouring out such a vast, global selection of wines that America recently surpassed France as the world's biggest winos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2100e3722c36d4a78cb4bf88206a19e8103c272a.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/drink/nation/the-21-best-wine-bars-in-the-country</link>
-            <guid isPermaLink="false">e093ce44-02f4-4770-a205-002074ff6555</guid>
-            <pubDate>Mon, 14 Dec 2015 22:20:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
