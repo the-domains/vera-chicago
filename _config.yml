@@ -1,28 +1,40 @@
-name: Vera Chicago
-favicon: null
-layout_spectrum: 0.82484
-typography_spectrum: 0.14560143114067614
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.8865915
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6875
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#ffffff'
     - '#523014'
     - '#b5cef6'
     - '#9f8971'
     - '#7c5e3a'
-  brandStrength: 0
   lightness: 0.375
-  saturation: 0.6875
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.2725564
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Vera Chicago
