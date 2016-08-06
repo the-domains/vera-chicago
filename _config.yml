@@ -1,4 +1,4 @@
-layout_spectrum: 0.8865915
+name: Vera Chicago
 opengraph:
   image: null
   type: null
@@ -9,25 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.6875
+  saturation: 0.7462406
   brandStrength: 0
-  rhythmicContrast: 0
+  lightness: 0.537594
   brandColors:
     - '#ffffff'
     - '#523014'
     - '#b5cef6'
     - '#9f8971'
     - '#7c5e3a'
-  lightness: 0.375
-typography_spectrum: 0.2725564
+  rhythmicContrast: 0
+typography_spectrum: 0.8176692
 cta:
   bucket: null
   version: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Vera Chicago
+layout_spectrum: 0.8865915
