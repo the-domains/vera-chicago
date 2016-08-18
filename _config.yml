@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: The Wine Bar
+description: West loop
 purpose: []
